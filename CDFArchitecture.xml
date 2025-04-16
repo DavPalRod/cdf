@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:137.0) Gecko/20100101 Firefox/137.0" version="26.2.13">
   <diagram name="Final" id="vFtsUkx8W0P4f-lVtXf6">
-    <mxGraphModel dx="5224" dy="3104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4250" dy="2416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="MPJ4gqWwvlvN3HBrN3-z-0" />
         <mxCell id="emddQ0bJHJeBRWUYVkV8-20" value="Buttons" style="" parent="MPJ4gqWwvlvN3HBrN3-z-0" />
@@ -557,7 +557,7 @@
           </mxGeometry>
         </mxCell>
         <object label="Streaming" id="wt7QQxQ9ksptXKiTPOLC-7">
-          <mxCell style="locked=1;" parent="MPJ4gqWwvlvN3HBrN3-z-0" visible="0" />
+          <mxCell style="" parent="MPJ4gqWwvlvN3HBrN3-z-0" visible="0" />
         </object>
         <mxCell id="TFEccHxY0V5-8aaRqxy6-0" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="wt7QQxQ9ksptXKiTPOLC-7" vertex="1">
           <mxGeometry x="1113" y="20" width="470" height="290" as="geometry" />
@@ -585,9 +585,9 @@
         </mxCell>
         <mxCell id="TFEccHxY0V5-8aaRqxy6-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#000000, #3e3e3e);" parent="wt7QQxQ9ksptXKiTPOLC-7" target="TFEccHxY0V5-8aaRqxy6-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1370" y="45" as="sourcePoint" />
+            <mxPoint x="-1430" y="-90" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="-1370" y="224" />
+              <mxPoint x="-1430" y="224" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -809,7 +809,7 @@
             <mxPoint x="-136" y="505" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kLli29d4Dc-r4z_xMNVG-0" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.aws_cloud;" vertex="1" parent="wt7QQxQ9ksptXKiTPOLC-8">
+        <mxCell id="kLli29d4Dc-r4z_xMNVG-0" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.aws_cloud;" parent="wt7QQxQ9ksptXKiTPOLC-8" vertex="1">
           <mxGeometry x="1020" y="350" width="50" height="50" as="geometry" />
         </mxCell>
         <object label="DevOps" id="wt7QQxQ9ksptXKiTPOLC-9">
